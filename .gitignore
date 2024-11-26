@@ -1,0 +1,7 @@
+node_modules/
+artifacts/
+output/
+cache/
+blockchain/cache/console-history.txt
+blockchain/ignition/deployments/
+
